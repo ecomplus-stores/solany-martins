@@ -1,1 +1,100 @@
 // Add your custom CSS here.
+.top-bar {
+  background: #ededed;
+}
+#header {
+  & #user-button .fa-user,
+  & #cart-button .fa-shopping-bag {
+    color: #f2746c;
+  }
+  background: #333232;
+}
+
+.product-card_pictures, .product-card_picture img {
+    height: 350px;
+    max-height: 350px
+   }
+   // desktop acima de 14 polegadas
+   @media  screen and (min-width: 1368px) {
+     .product-card--small .product-card__picture img, .product-card--small .product-card__pictures {
+       max-height: 300px;
+       height: 300px;
+     }
+     .pswp__zoom-wrap img {
+       height: 1000px !important;
+       width: auto !important;
+     }
+     .product-card__pictures, .product-card__picture img {
+         height: 400px;
+         max-height: 400px;
+     }
+   }
+
+   //desktop normal size
+   @media  screen and (min-width: 992px) and (max-width: 1367px) {
+     //slider full
+     .banner-slider {
+       max-width: 100%;
+     }
+     .pswp__zoom-wrap img {
+       height: 1000px !important;
+       width: auto !important;
+     }
+     .product-card__pictures, .product-card__picture img {
+         height: 400px;
+         max-height: 400px;
+     }
+   }
+   // apenas tablet
+   @media screen and (min-width: 481px) and (max-width: 991px) {
+     .pswp__zoom-wrap img {
+       height: 1000px !important;
+       width: auto !important;
+     }
+     .pswp__zoom-wrap {
+       transform: translate3d(6%, 1%, 0) scale(1) !important;
+     }
+     .product-card__pictures, .product-card__picture img {
+         height: 320px;
+         max-height: 320px;
+     }
+   }
+   // apenas mobile
+   @media screen and (max-width: 480px) {
+     .pswp__zoom-wrap img {
+       height: 400px !important;
+       width: auto !important;
+     }
+     .pswp__zoom-wrap {
+       transform: translate3d(18%, 20%, 0) scale(1) !important;
+     }
+     .product-card__pictures, .product-card__picture img {
+         height: 246px;
+         max-height: 246px;
+     }
+   }
+   .footer {
+     & .footer__title {
+       text-transform: uppercase;
+       color: #fff
+     }
+     background: #333232
+   }
+   a:hover {
+     color: #ff756c
+   }
+   .products-carousel__title {
+     text-align: left;
+     text-transform: uppercase;
+     font-weight: 300;
+     color: #979797;
+   }
+   .products-carousel__title a::after {
+    content: ' + Ver mais';
+    font-size: 1rem;
+    padding:  0.5rem;
+    color: #fa7d75;
+  }
+   .products-carousel__title::before {
+     background: transparent;
+   }

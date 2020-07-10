@@ -7,15 +7,21 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "img": "/img/uploads/BANNER-CLAUDIANY-OP01-Easy-Resize-com.jpg",
+          "link": "",
+          "alt": "Claudiany",
+          "start": "",
+          "end": ""
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/00.jpeg",
+          "alt": "Encontre seu look",
+          "start": "",
+          "end": ""
+        },
+        {
+          "img": "/img/uploads/21.jpeg",
+          "alt": "Moda Masculina",
           "start": "",
           "end": ""
         }
@@ -23,7 +29,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
