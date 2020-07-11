@@ -58,6 +58,9 @@
          height: 320px;
          max-height: 320px;
      }
+     .header__toggler-icon {
+      color: #f2746c;
+     }
    }
    // apenas mobile
    @media screen and (max-width: 480px) {
@@ -71,6 +74,9 @@
      .product-card__pictures, .product-card__picture img {
          height: 246px;
          max-height: 246px;
+     }
+     .header__toggler-icon {
+      color: #f2746c;
      }
    }
    .footer {
@@ -98,3 +104,7 @@
    .products-carousel__title::before {
      background: transparent;
    }
+.header__nav--full a {
+    margin-top: var(--spacer-3);
+    padding: 0 var(--spacer-3);
+}
