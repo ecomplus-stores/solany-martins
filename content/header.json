@@ -4,15 +4,25 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/masculino?MASCULINO",
+      "/outlet?OUTLET",
+      "/blusas?BLUSAS",
+      "/acessorios?ACESSÓRIOS",
+      "/vestidos?VESTIDOS",
+      "/saias?SAIAS",
+      "/plus-size?PLUS SIZE",
+      "/infantil-tiny?INFANTIL- TEEN",
+      "/lancamentos?LANÇAMENTOS",
+      "/looks-festa?looks festa "
+    ],
+    "random": 0,
+    "full_width": true
   },
   "search_input": true
 }
