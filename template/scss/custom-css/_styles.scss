@@ -84,8 +84,56 @@
        text-transform: uppercase;
        color: #fff
      }
+     & p, & a, & address, & i {
+       color: #fff;
+     }
      background: #333232
    }
+
+   .product-card__name {
+     text-align: center;
+     color: #000;
+   }
+   .product-card__prices {
+     & .prices__installments {
+       &::after {
+         content: "\A SEM JUROS";
+         white-space: pre;
+         color: #000;
+         font-weight: 700;
+         font-size: 12px;
+       }
+       order: 1;
+       color: #fa7d75;
+       font-size: 18px;
+     }
+     & .prices__value {
+       &::after {
+         content: " À VISTA";
+         font-size: 12px;
+       }
+       order: 2;
+       margin-top: 0px !important;
+       font-weight: 400;
+     }
+     & .prices__discount {
+       display: none;
+     }
+     text-align: center;
+     display: flex;
+     flex-direction: column;
+   }
+   .product__prices {
+     & .prices__discount {
+       &::after {
+         content: ' no boleto'
+       }
+       & small {
+         display: none;
+       }
+     }
+   }
+
    a:hover {
      color: #ff756c
    }
@@ -107,4 +155,12 @@
 .header__nav--full a {
     margin-top: var(--spacer-3);
     padding: 0 var(--spacer-3);
+}
+#product {
+  & .product__buy button {
+    width: 100%;
+    background: green;
+    border: none;
+    color: #fff;
+  }
 }
