@@ -1,22 +1,23 @@
 {
-  "store_id": 1121,
   "domain": "www.solanymartins.com.br",
+  "currency_symbol": "R$",
+  "primary_color": "#fa7d75",
+  "theme": {
+    "bootswatch": "_",
+    "custom": "_"
+  },
+  "bg_color": "#fff",
+  "logo": "/img/uploads/logo.png",
   "name": "Solany Martins - Moda Evangélica",
   "short_name": "solany-martins",
-  "description": "solany-martins",
-  "primary_color": "#fa7d75",
-  "secondary_color": "#333232",
-  "bg_color": "#fff",
-  "theme": {
-    "bootswatch": "_"
-  },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "/img/uploads/minilogo.png",
-  "icon": "/img/uploads/minilogo.png",
-  "large_icon": "/img/uploads/logo.png",
-  "favicon": "/img/uploads/minilogo.png",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "/img/uploads/minilogo.png",
+  "favicon": "/img/uploads/minilogo.png",
+  "country_code": "BR",
+  "secondary_color": "#333232",
+  "icon": "/img/uploads/minilogo.png",
+  "store_id": 1121,
+  "description": "Solany Martins - Moda Evangélica",
+  "large_icon": "/img/uploads/logo.png"
 }
