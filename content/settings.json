@@ -6,11 +6,11 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "repository": "ecomplus-stores/solany-martins",
   "bg_color": "#fff",
+  "repository": "ecomplus-stores/solany-martins",
   "logo": "/img/uploads/logo.png",
   "name": "Solany Martins - Moda Evangélica",
-  "short_name": "solany-martins",
+  "short_name": "Solany Martins",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "/img/uploads/minilogo.png",
