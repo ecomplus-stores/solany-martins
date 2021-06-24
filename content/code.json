@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "#account-form-marketing, label[for=\"account-form-marketing\"]{display: none;}\n#account-form-birth, label[for=\"account-form-birth\"]{display: none;}\n",
   "html_head": "<meta name=\"facebook-domain-verification\" content=\"ld1pjlnk3m34eodfbnnghioktc628n\" />",
   "html_body": ""
 }
