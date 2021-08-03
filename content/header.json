@@ -10,11 +10,11 @@
   },
   "categories_list": {
     "featured": [
-      "/blusas?BLUSAS",
-      "/acessorios?ACESSÓRIOS",
+      "/blusas/?BLUSAS",
+      "/acessorios/?ACESSÓRIOS",
       "/vestidos?VESTIDOS",
-      "/saias?SAIAS",
-      "/lancamentos?LANÇAMENTOS",
+      "/saias/?SAIAS",
+      "/lancamentos/?LANÇAMENTOS",
       "/teen-girls?TEEN GIRLS"
     ],
     "random": 0,
