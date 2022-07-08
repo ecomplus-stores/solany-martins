@@ -230,6 +230,18 @@
     </url>
   
     <url>
+      <loc>https://www.solanymartins.com.br/moda-masculina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.solanymartins.com.br/marca/solany-martins-moda-evangelica</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.solanymartins.com.br/jaqueta-de-laise-croped</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -812,12 +824,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/vestido-ombro-a-ombro-floral-com-lastex-cintura</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/croped-estampa-animal-print</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -849,24 +855,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/sandalia-lilas-salto-bloco</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/sandalia-verde</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/sacarpin-nude</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/bolsa-carteira</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1130,24 +1118,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/calca-alfaiataria-com-cinto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/calca-preta-alfaiataria-com-cinto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/calca-cos-alto-preta-alfaiataria-com-cinto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/croped-estampado-com-lastex</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1328,12 +1298,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/vestido-preto-com-rendas-e-detalhes-de-botoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/blusa-azul-com-detalhes-de-flores</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1353,12 +1317,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/saia-preta-com-botoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/vestido-branco-de-laise</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1442,12 +1400,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/vestido-preto-com-manga-gripir-e-ziper-frontal</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/vestido-longo-pink</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1461,12 +1413,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/vestido-preto-xadrez-tubinho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/vestido-preto-tubinho-com-botoes--e-detalhes-de-renda</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1491,12 +1437,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/vestido-no-linho-com-mangas-no-guipir</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/645474</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2354,12 +2294,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/vestido-azul-de-renda-bordada</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/blusa-azul-na-malha-canelada-com-muito-elastano</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2414,12 +2348,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/conjunto-de-renda-croped</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/vestido-amarelo-max-longo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2427,12 +2355,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/saia-com-cinto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/vestido-com-bolsos-laterais</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2576,27 +2498,9 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/vestido-tubinho-animal-print</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/camisa-nude-xadrez</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/moda-masculina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/marca/solany-martins-moda-evangelica</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
