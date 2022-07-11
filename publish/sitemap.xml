@@ -224,12 +224,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/blusa-de-poa-azul</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/vestido-preto-com-detalhe-de-vies-branco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1550,12 +1544,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/saia-jeans-com-pedras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/saia-jeans-com-lastex-cintura</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1802,12 +1790,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/saia-off-com-recortes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/saia-jeans--2-marias</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1917,12 +1899,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/croped-verde-de-poa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/saia-azul-de-couro-com-botoes</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2474,13 +2450,13 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/moda-masculina</loc>
+      <loc>https://www.solanymartins.com.br/marca/solany-martins-moda-evangelica</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/marca/solany-martins-moda-evangelica</loc>
+      <loc>https://www.solanymartins.com.br/moda-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
