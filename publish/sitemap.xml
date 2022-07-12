@@ -1346,12 +1346,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/vestido-longo-pink</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/vestido-estampado-com-babado</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1359,12 +1353,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/vestido-preto-xadrez-tubinho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/vestido-amarelo-ombro-a-ombro</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1868,12 +1856,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/blusa-listrada-de-manga-com-punho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/saia-preta-com-botoes-frontal</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1893,12 +1875,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/saia-azul-com-botoes-frontal</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/vestido-rosa-com-laco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2180,12 +2156,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/vestido-tricoline-pessego</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/vestido-marilene-de-tricoline-com-entremeios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2234,12 +2204,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/vestido-listrado-em-malha-com--detalhe-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/blusa-poa-em-viscose-com--no-gripir</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2271,12 +2235,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/conjunto-croped-de-gripir</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/vestido-xadrez-com-cinto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2366,12 +2324,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/jaqueta-resinada-ocre</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/vestido-crepe-estampado-longo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2379,12 +2331,6 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/blusa-jeans</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.solanymartins.com.br/camisa-alongada-tricoline-preta</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2420,12 +2366,6 @@
     </url>
   
     <url>
-      <loc>https://www.solanymartins.com.br/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.solanymartins.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2433,6 +2373,12 @@
   
     <url>
       <loc>https://www.solanymartins.com.br/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.solanymartins.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
